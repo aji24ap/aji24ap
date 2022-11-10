@@ -1,8 +1,4 @@
-### Hi there 👋
-
-def greet(name):
-  print("Hello "+name+" ,Salam Kenal Ya 😄")
-name="Ilham Wahyu Aji"
+### Asik Kamu Menemukan Saya 👋
 
 <!--
 **aji24ap/aji24ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
